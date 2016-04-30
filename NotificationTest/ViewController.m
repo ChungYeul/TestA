@@ -5,6 +5,7 @@
 //  Created by In Chung Yeul on 2016. 4. 29..
 //  Copyright © 2016년 inchung. All rights reserved.
 //
+// 1차 수정한다.
 
 #import "ViewController.h"
 
